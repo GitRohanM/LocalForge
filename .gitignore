@@ -1,0 +1,18 @@
+# Editor settings & local extensions
+.vscode/
+.idea/
+*.swp
+
+# macOS folder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail & folder caches
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary & log files
+*.log
+*.tmp
